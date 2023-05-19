@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on websites and more <br>🌱 I’m currently learning product design apprenticeship.<br>💬 Ask me about anything<br><br>🖥️ = 2x Samsung C24RG50FQR<br>🎥 = NVIDIA GeForce RTX 2060<br>⚙️ = AMD Ryzen 5 5600X 6-Core Processor<br>💾 = 16GB Kingston Memory<br>💾 = 1TB SSD, 2TB HDD <br>⌨️ = Mizar MZ60 <br>🖱 = Razer Viper Mercury<br>📷 = Logitech C920<br>🎧 = DT 990 PRO<br>🎤 = Shure MV7<br>🖊 = One by Wacom Small<br>🎮 = Xbox Elite Series 2<br>📟 = Elgato Stream Deck MINI <br>🎛🎚 = Korg NANOKONTROL2<br>🖼️ = Displate 2x by [Rochefort]<br>📥 = DOWNLOAD 1053.51Mbps - UPLOAD 75,43Mbps
+🔭 I’m currently working on websites and more <br>🌱 I’m currently learning Nothing.<br>💬 Ask me about anything<br><br>🎥 = NVIDIA GeForce RTX 4070 Ti<br>⚙️ = Intel Core i5-13600KF<br>💾 = Kingston FURY Beast 32GB<br>💾 = 2x 2TB SSD <br>⌨️ = Mizar MZ60 <br>🖱 = Razer Viper Mercury<br>📷 = Logitech C920<br>🎧 = DT 990 PRO<br>🎤 = Shure MV7<br>🖊 = One by Wacom Small<br>🎮 = Xbox Elite Series 2<br>📟 = Elgato Stream Deck MINI <br>🎛🎚 = Korg NANOKONTROL2<br>🖼️ = Displate 2x by [Rochefort]<br>📥 = DOWNLOAD 1053.51Mbps - UPLOAD 75,43Mbps
 
 
 ## 🌐 Socials:
