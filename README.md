@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yivani</h1>
-- 🔭 I’m currently working on [My Website](https://yivani.site/)
+- 🔭 I’m currently working on [My Website](https://yivani.de/)
 
 - 🌱 I’m currently learning **All stuff**
 
-- 📫 How to reach me **https://yivani.site/contact.html**
+- 📫 How to reach me **https://yivani.de/**
 
 - ⚡ Fun fact **I think i am good at alot of stuff**
 
