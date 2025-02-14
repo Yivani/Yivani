@@ -13,14 +13,14 @@
 
 - 💬 Ask me about **Anything**
 
-- 📫 How to reach me **help@yivani.de**
+- 📫 How to reach me **info@yivani.de**
 
 - ⚡ Fun fact **I think im not good enough.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/yyvani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yyvani" height="30" width="40" /></a>
-<a href="https://discord.gg/yivani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="yivani" height="30" width="40" /></a>
+<a href="https://discord.gg/NbDjZxcQGy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="yivani" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
