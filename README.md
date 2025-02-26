@@ -47,9 +47,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Yivani/Yivani/output/snake.svg" alt="Snake animation" />
-
-###
