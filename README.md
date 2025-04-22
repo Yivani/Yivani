@@ -33,13 +33,8 @@ Other Platforms: Steam, Xbox, Epic Games 🎮🌱
 
 - **[Pinterest](https://de.pinterest.com/Yyvani/) 🌺📌**
 
-- **[Reddit](https://www.reddit.com/user/Zerlax__/) 🍄👾**
-
-- **[TikTok](https://www.tiktok.com/@_yivani_) 🍃🎶**
-
 - **[Twitch](https://www.twitch.tv/yyvani) 🌙🎥**
 
-- **[X (formerly Twitter)](https://x.com/Yyvani) 🌳🐦**
 
 - **info@yivani.de ✉️📩**
 
