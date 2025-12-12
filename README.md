@@ -13,7 +13,7 @@ Hi there! I'm $\color{rgba(119,62,73, 0.4)}{\textsf{Yivani}}$ , a 22-year-old pa
 
 🌍 My Projects & Website
 
-Curious about my work? Visit my website to explore my projects and get inspired:  [Yivani.de](https://yivani.de/) 🍀🌟
+Curious about my work? Visit my website to explore my projects and get inspired:  [Yivani.de](https://yivani.dev/) 🍀🌟
 
 ## 🌲 Tech Stack
 
@@ -29,14 +29,14 @@ Other Platforms: Steam, Xbox, Epic Games 🎮🌱
 
 ### Connect with me on social media and let's stay in touch:
 
-- **[Discord](https://discord.gg/MR7zAXpwxu) 🌊💬**
+- **[Discord](https://discord.gg/4SXYhCU3nT) 🌊💬**
 
 - **[Pinterest](https://de.pinterest.com/Yyvani/) 🌺📌**
 
 - **[Twitch](https://www.twitch.tv/yyvani) 🌙🎥**
 
 
-- **info@yivani.de ✉️📩**
+- **contact@yivani.dev ✉️📩**
 
 ## 🍃 A Touch of Animated Nature
 
