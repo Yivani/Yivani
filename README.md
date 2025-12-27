@@ -13,7 +13,7 @@ Hi there! I'm $\color{rgba(119,62,73, 0.4)}{\textsf{Yivani}}$ , a 22-year-old pa
 
 🌍 My Projects & Website
 
-Curious about my work? Visit my website to explore my projects and get inspired:  [Yivani.de](https://yivani.dev/) 🍀🌟
+Curious about my work? Visit my website to explore my projects and get inspired:  [Yivani.dev](https://yivani.dev/) 🍀🌟
 
 ## 🌲 Tech Stack
 
