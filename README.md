@@ -7,7 +7,7 @@
 </div>
 
 
-Hi there! I'm $\color{rgba(119,62,73, 0.4)}{\textsf{Yivani}}$ , a 22-year-old passionate hobby web developer from Germany. I love blending the organic beauty of nature with the art of coding, tinkering with both frontend and backend projects to create inspiring digital experiences. 🌱💻✨
+Hi there! I'm $\color{rgba(119,62,73, 0.4)}{\textsf{Yivani}}$ , a 23-year-old passionate hobby web developer from Germany. I love blending the organic beauty of nature with the art of coding, tinkering with both frontend and backend projects to create inspiring digital experiences. 🌱💻✨
 
 > *"Nature is the ultimate source of creativity and serenity in our digital world."* 🍃🌾"*
 
