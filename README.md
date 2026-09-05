@@ -1,50 +1,58 @@
-# Welcome to My Nature-Inspired Space 🌿✨
+<h1 align="center">Yivani</h1>
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="https://i.imgur.com/V8at0MT.png" alt="Left Img" style="width: 20%;">
-  <img src="https://i.pinimg.com/originals/96/ca/f5/96caf5cd0fb6f9d08a66c90d970847c7.gif" alt="Center Gif" style="width: 59%;">
-  <img src="https://i.imgur.com/V8at0MT.png" alt="Right Img" style="width: 20%;">
-</div>
+<p align="center">
+Hobby web developer from Germany, 23.<br>
+Frontend and backend, mostly small tools that stay out of the way.
+</p>
 
+<p align="center">
+<a href="https://yivani.dev"><img src="https://custom-icon-badges.demolab.com/badge/yivani.dev-17191C?style=flat-square&logo=globe&logoColor=6ED6E8&labelColor=17191C" alt="Website"></a> <a href="mailto:contact@yivani.dev"><img src="https://img.shields.io/badge/contact@yivani.dev-17191C?style=flat-square&logo=maildotru&logoColor=6ED6E8&labelColor=17191C" alt="Email"></a> <a href="https://discord.gg/4SXYhCU3nT"><img src="https://img.shields.io/badge/Discord-17191C?style=flat-square&logo=discord&logoColor=6ED6E8&labelColor=17191C" alt="Discord"></a> <a href="https://www.twitch.tv/yyvani"><img src="https://img.shields.io/badge/Twitch-17191C?style=flat-square&logo=twitch&logoColor=6ED6E8&labelColor=17191C" alt="Twitch"></a> <a href="https://de.pinterest.com/Yyvani/"><img src="https://img.shields.io/badge/Pinterest-17191C?style=flat-square&logo=pinterest&logoColor=6ED6E8&labelColor=17191C" alt="Pinterest"></a>
+</p>
 
-Hi there! I'm $\color{rgba(119,62,73, 0.4)}{\textsf{Yivani}}$ , a 23-year-old passionate hobby web developer from Germany. I love blending the organic beauty of nature with the art of coding, tinkering with both frontend and backend projects to create inspiring digital experiences. 🌱💻✨
+<hr>
 
-> *"Nature is the ultimate source of creativity and serenity in our digital world."* 🍃🌾"*
+<h3 align="center">Stack</h3>
 
-🌍 My Projects & Website
+<p align="center">
+<img src="https://img.shields.io/badge/TypeScript-17191C?style=flat-square&logo=typescript&logoColor=6ED6E8&labelColor=17191C" alt="TypeScript"> <img src="https://img.shields.io/badge/JavaScript-17191C?style=flat-square&logo=javascript&logoColor=6ED6E8&labelColor=17191C" alt="JavaScript"> <img src="https://img.shields.io/badge/Python-17191C?style=flat-square&logo=python&logoColor=6ED6E8&labelColor=17191C" alt="Python"> <img src="https://img.shields.io/badge/PHP-17191C?style=flat-square&logo=php&logoColor=6ED6E8&labelColor=17191C" alt="PHP"> <img src="https://img.shields.io/badge/HTML5-17191C?style=flat-square&logo=html5&logoColor=6ED6E8&labelColor=17191C" alt="HTML5"> <img src="https://img.shields.io/badge/CSS-17191C?style=flat-square&logo=css&logoColor=6ED6E8&labelColor=17191C" alt="CSS">
+</p>
 
-Curious about my work? Visit my website to explore my projects and get inspired:  [Yivani.dev](https://yivani.dev/) 🍀🌟
+<p align="center">
+<img src="https://custom-icon-badges.demolab.com/badge/VS%20Code-17191C?style=flat-square&logo=code&logoColor=6ED6E8&labelColor=17191C" alt="VS Code"> <img src="https://img.shields.io/badge/Figma-17191C?style=flat-square&logo=figma&logoColor=6ED6E8&labelColor=17191C" alt="Figma"> <img src="https://custom-icon-badges.demolab.com/badge/Photoshop-17191C?style=flat-square&logo=image&logoColor=6ED6E8&labelColor=17191C" alt="Photoshop"> <img src="https://img.shields.io/badge/Aseprite-17191C?style=flat-square&logo=aseprite&logoColor=6ED6E8&labelColor=17191C" alt="Aseprite"> <img src="https://img.shields.io/badge/Git-17191C?style=flat-square&logo=git&logoColor=6ED6E8&labelColor=17191C" alt="Git">
+</p>
 
-## 🌲 Tech Stack
+<hr>
 
-### Here’s a quick look at the tools and technologies I work with:
+<h3 align="center">Builds</h3>
 
-Languages: HTML5, CSS3, JavaScript, PHP, TypeScript, Python 🍂🌿
+<p align="center">
+<b><a href="https://github.com/Yivani/Black-One">Black-One</a></b><br>
+Provider-independent chat, real terminal work, and focused agents in one workspace.<br>
+<img src="https://img.shields.io/github/languages/top/Yivani/Black-One?style=flat-square&labelColor=17191C&color=17191C" alt="language"> <img src="https://img.shields.io/github/stars/Yivani/Black-One?style=flat-square&labelColor=17191C&color=17191C" alt="stars"> <img src="https://img.shields.io/github/last-commit/Yivani/Black-One?style=flat-square&labelColor=17191C&color=17191C" alt="last commit">
+</p>
 
-Design & Tools: Adobe Photoshop, Figma, Aseprite 🎨🍁
+<p align="center">
+<b><a href="https://github.com/Yivani/YivManager">YivManager</a></b><br>
+VS Code extension for keeping a workspace tidy.<br>
+<img src="https://img.shields.io/github/languages/top/Yivani/YivManager?style=flat-square&labelColor=17191C&color=17191C" alt="language"> <img src="https://img.shields.io/github/stars/Yivani/YivManager?style=flat-square&labelColor=17191C&color=17191C" alt="stars"> <img src="https://img.shields.io/github/last-commit/Yivani/YivManager?style=flat-square&labelColor=17191C&color=17191C" alt="last commit">
+</p>
 
-Other Platforms: Steam, Xbox, Epic Games 🎮🌱
+<p align="center">
+<b><a href="https://github.com/Yivani/YivColor">YivColor</a></b><br>
+See any color in any file. No config, no setup.<br>
+<img src="https://img.shields.io/github/languages/top/Yivani/YivColor?style=flat-square&labelColor=17191C&color=17191C" alt="language"> <img src="https://img.shields.io/github/stars/Yivani/YivColor?style=flat-square&labelColor=17191C&color=17191C" alt="stars"> <img src="https://img.shields.io/github/last-commit/Yivani/YivColor?style=flat-square&labelColor=17191C&color=17191C" alt="last commit">
+</p>
 
-## 🌻 Socials
+<p align="center">
+<b><a href="https://github.com/Yivani/Lumen">Lumen</a></b><br>
+Lightweight and quiet. Built to do one job properly.<br>
+<img src="https://img.shields.io/github/languages/top/Yivani/Lumen?style=flat-square&labelColor=17191C&color=17191C" alt="language"> <img src="https://img.shields.io/github/stars/Yivani/Lumen?style=flat-square&labelColor=17191C&color=17191C" alt="stars"> <img src="https://img.shields.io/github/last-commit/Yivani/Lumen?style=flat-square&labelColor=17191C&color=17191C" alt="last commit">
+</p>
 
-### Connect with me on social media and let's stay in touch:
+<hr>
 
-- **[Discord](https://discord.gg/4SXYhCU3nT) 🌊💬**
+<h3 align="center">Activity</h3>
 
-- **[Pinterest](https://de.pinterest.com/Yyvani/) 🌺📌**
-
-- **[Twitch](https://www.twitch.tv/yyvani) 🌙🎥**
-
-
-- **contact@yivani.dev ✉️📩**
-
-## 🍃 A Touch of Animated Nature
-
-
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="https://i.imgur.com/V8at0MT.png" alt="Left Img" style="width: 20%;">
-  <img src="https://i.pinimg.com/originals/bd/7c/0c/bd7c0cca1872e49c42b90beee03b4e24.gif" alt="Center Gif" style="width: 59%;">
-  <img src="https://i.imgur.com/V8at0MT.png" alt="Right Img" style="width: 20%;">
-</div>
-
-Stay inspired, keep exploring, and happy coding! 🌿✨🍃
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=Yivani&hide_border=true&background=17191C&stroke=2E3338&ring=6ED6E8&fire=6ED6E8&currStreakLabel=6ED6E8&currStreakNum=E8EDF1&sideLabels=C9CFD4&sideNums=E8EDF1&dates=6E767D" height="150" alt="streak stats">
+</p>
